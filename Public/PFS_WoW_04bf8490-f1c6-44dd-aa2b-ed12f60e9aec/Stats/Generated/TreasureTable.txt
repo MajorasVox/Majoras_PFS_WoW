@@ -1,0 +1,36 @@
+treasure itemtypes "Common","Uncommon","Rare","Epic","Legendary","Divine","Unique"
+
+new treasuretable "Maj_PFS_WoW_Armor"
+new subtable "1,1"
+object category "Maj_EQ_ARM_Base_Arthas",1,1,0,0,0,0,0,0
+new subtable "1,1"
+object category "Maj_EQ_ARM_Base_Arthas_Cape",1,1,0,0,0,0,0,0
+new subtable "1,1"
+object category "Maj_EQ_ARM_BfA_Valeera_Armor",1,1,0,0,0,0,0,0
+new subtable "1,1"
+object category "Maj_EQ_ARM_BfA_Valeera_Helmet",1,1,0,0,0,0,0,0
+new subtable "1,1"
+object category "Maj_EQ_ARM_Dragonflight_Alexstrasza_Armor",1,1,0,0,0,0,0,0
+new subtable "1,1"
+object category "Maj_EQ_ARM_Dragonflight_Alexstrasza_Helmet",1,1,0,0,0,0,0,0
+
+new treasuretable "Maj_PFS_WoW_Glamour"
+new subtable "1,1"
+object category "Maj_EQ_ARM_Base_Arthas_Glamour",1,1,0,0,0,0,0,0
+new subtable "1,1"
+object category "Maj_EQ_ARM_BfA_Valeera_Glamour",1,1,0,0,0,0,0,0
+new subtable "1,1"
+object category "Maj_EQ_ARM_Dragonflight_Alexstrasza_Glamour",1,1,0,0,0,0,0,0
+
+new treasuretable "Maj_PFS_WoW_Weapons"
+new subtable "1,1"
+object category "Maj_WPN_2H_Lights_Vengeance",1,1,0,0,0,0,0,0
+new subtable "1,1"
+object category "Maj_WPN_1H_Frostmourne",1,1,0,0,0,0,0,0
+new subtable "1,1"
+object category "Maj_WPN_2H_Frostmourne",1,1,0,0,0,0,0,0
+new subtable "1,1"
+object category "Maj_WPN_2H_Alexstraszas_Staff",1,1,0,0,0,0,0,0
+new subtable "1,1"
+object category "Maj_WPN_1H_Valeera_Dagger",1,1,0,0,0,0,0,0
+

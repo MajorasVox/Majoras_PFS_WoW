@@ -1,0 +1,83 @@
+new itemgroup "Maj_EQ_ARM_Base_Arthas"
+
+add levelgroup 0,0,"All"
+add rootgroup "6bb16d2a-8712-461a-8eab-ebd9d82852ba",""
+add namegroup "Maj_EQ_ARM_Base_Arthas","",""
+
+new itemgroup "Maj_EQ_ARM_Base_Arthas_Cape"
+
+add levelgroup 0,0,"All"
+add rootgroup "968168f5-a73f-4ac8-8ee7-af934748ac27",""
+add namegroup "Maj_EQ_ARM_Base_Arthas_Cape","",""
+
+new itemgroup "Maj_EQ_ARM_Base_Arthas_Glamour"
+
+add levelgroup 0,0,"All"
+add rootgroup "8ba7d332-2e6f-4e65-9792-938ea8375a5f",""
+add namegroup "Maj_EQ_ARM_Base_Arthas_Glamour","",""
+
+new itemgroup "Maj_EQ_ARM_BfA_Valeera_Armor"
+
+add levelgroup 0,0,"All"
+add rootgroup "f4434b3d-f878-4f81-9bda-962c7b8bce4c",""
+add namegroup "Maj_EQ_ARM_BfA_Valeera_Armor","",""
+
+new itemgroup "Maj_EQ_ARM_BfA_Valeera_Glamour"
+
+add levelgroup 0,0,"All"
+add rootgroup "35963b5a-6f52-4395-b717-495660be7508",""
+add namegroup "Maj_EQ_ARM_BfA_Valeera_Glamour","",""
+
+new itemgroup "Maj_EQ_ARM_BfA_Valeera_Helmet"
+
+add levelgroup 0,0,"All"
+add rootgroup "f12a5022-2cea-4e7e-acba-be749acac64b",""
+add namegroup "Maj_EQ_ARM_BfA_Valeera_Helmet","",""
+
+new itemgroup "Maj_EQ_ARM_Dragonflight_Alexstrasza_Armor"
+
+add levelgroup 0,0,"All"
+add rootgroup "22340e50-507a-4181-b02c-b6ffa7a5c4a1",""
+add namegroup "Maj_EQ_ARM_Dragonflight_Alexstrasza_Armor","",""
+
+new itemgroup "Maj_EQ_ARM_Dragonflight_Alexstrasza_Glamour"
+
+add levelgroup 0,0,"All"
+add rootgroup "a186494d-1ea9-401f-ab94-860e03b999e2",""
+add namegroup "Maj_EQ_ARM_Dragonflight_Alexstrasza_Glamour","",""
+
+new itemgroup "Maj_EQ_ARM_Dragonflight_Alexstrasza_Helmet"
+
+add levelgroup 0,0,"All"
+add rootgroup "71df1d72-9457-464a-b9d6-954ec63a29f5",""
+add namegroup "Maj_EQ_ARM_Dragonflight_Alexstrasza_Helmet","",""
+
+new itemgroup "Maj_WPN_2H_Lights_Vengeance"
+
+add levelgroup 0,0,"All"
+add rootgroup "83966032-0e04-4e9b-8068-7fb289a9af5b",""
+add namegroup "Maj_WPN_2H_Lights_Vengeance","",""
+
+new itemgroup "Maj_WPN_1H_Frostmourne"
+
+add levelgroup 0,0,"All"
+add rootgroup "f91f4a4f-38e1-42f8-8870-b88f4e4a53f8",""
+add namegroup "Maj_WPN_1H_Frostmourne","",""
+
+new itemgroup "Maj_WPN_2H_Frostmourne"
+
+add levelgroup 0,0,"All"
+add rootgroup "e1dadea7-7cb4-41cf-8e1b-3c56ccf54268",""
+add namegroup "Maj_WPN_2H_Frostmourne","",""
+
+new itemgroup "Maj_WPN_2H_Alexstraszas_Staff"
+
+add levelgroup 0,0,"All"
+add rootgroup "a3f0363f-db70-437a-90ae-3507bf896302",""
+add namegroup "Maj_WPN_2H_Alexstraszas_Staff","",""
+
+new itemgroup "Maj_WPN_1H_Valeera_Dagger"
+
+add levelgroup 0,0,"All"
+add rootgroup "ac7a5cb0-d2a4-440a-bcdc-e4eb06c6cfdd",""
+add namegroup "Maj_WPN_1H_Valeera_Dagger","",""

@@ -26,7 +26,7 @@
                             <attribute id="MD5" value="" type="23" />
                             <attribute id="Name" value="PFS: Shared Library" type="22" />
                             <attribute id="UUID" value="1cac3249-1bad-4b82-9818-23dfff1f8cd6" type="22" />
-                            <attribute id="Version" value="268435456" type="4" />
+                            <attribute id="Version" value="268435458" type="4" />
                         </node>
                     </children>
                 </node>
@@ -48,7 +48,7 @@
                     <attribute id="Tags" value="" type="30" />
                     <attribute id="Type" value="Add-on" type="22" />
                     <attribute id="UUID" value="04bf8490-f1c6-44dd-aa2b-ed12f60e9aec" type="22" />
-                    <attribute id="Version" value="268435457" type="4" />
+                    <attribute id="Version" value="268435459" type="4" />
                     <children>
                         <node id="PublishVersion">
                             <attribute id="Version" value="909321303" type="4" />
